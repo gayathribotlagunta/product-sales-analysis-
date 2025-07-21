@@ -47,7 +47,7 @@ The dataset used contains transactional sales data with the following columns (m
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/product-sales-analysis.git
+   git clone https://github.com/gayathribotlagunta/product-sales-analysis.git
    cd product-sales-analysis
 🛠️ Tech Stack
 
@@ -69,7 +69,7 @@ The dataset used contains transactional sales data with the following columns (m
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/product-sales-analysis.git
+   git clone https://github.com/gayathribotlagunta/product-sales-analysis.git
    cd product-sales-analysis
 Install required libraries:
 
